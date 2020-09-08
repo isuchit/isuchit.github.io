@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Suchit Rotti",
+    "occupation": "Software Developer",
+    "description": "A R&D @MNC by Day && soon want to be a Freelancer by Night",
+    "image": "profile.PNG",
+    "bio": "My name is Suchit, I'm a Software Developer. Currently I'm working at @MNC",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "suchitrotti@gmail.com",
+    "phone": "+91 9481712900",
+    "address": {
+      "street": "18 5th Main",
+      "city": "Bengaluru",
+      "state": "Karnataka, India",
+      "zip": "560034"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/suchitrotti",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/suchitrotti/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/i__suchit/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/isuchit",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I love to work on serverless applications as a cloud native applications",
+    "education": [
+      {
+        "school": "Bangalore Institute of Technology",
+        "degree": "Undergraduate in Computer Science",
+        "graduated": "July 2018",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "@MNC",
+        "title": "Software Developer",
+        "years": "August 2018 - Present",
+        "description": "R&D Developer"
+      }
+    ],
+    "skills": [
+      {
+        "name": "AWS",
+        "level": "90%"
+      },
+      {
+        "name": "Javascript",
+        "level": "85%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Airbnb Clone",
+        "category": "Airbnb Clone built with ReactJS",
+        "image": "airbnb.PNG",
+        "url": "https://github.com/isuchit/react-airbnb-clone"
+      },
+      {
+        "title": "WhatsApp Clone",
+        "category": "WhatsApp Clone built with ReactJS",
+        "image": "whatsapp.PNG",
+        "url": "https://github.com/isuchit/react-whatsapp-clone"
+      },
+      {
+        "title": "Analysis of an Extensive Set of Documents",
+        "category": "To analyze a huge set of document and partition(cluster) them into subsets based on the similarity among them",
+        "image": "nlp.PNG",
+        "url": "https://github.com/isuchit/nlp_pipeline"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Suchit is fantastic developer. Handholded team's post transition of their projects, very good in exploration of new technology areas, Figuring out how to solve the problems himself quite well and excellent in terms of quality and quantity.",
+        "user": "Vijaya Kumar Bhavani"
+      }
+    ]
+  }
+}
